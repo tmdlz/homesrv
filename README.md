@@ -68,6 +68,20 @@ sudo systemctl restart systemd-logind
 
 You can now close the laptop lid without it going to sleep.
 
+## Quick Connect
+
+Add this alias to your `~/.zshrc` on Mac for easy access:
+
+```bash
+alias lab="ssh username@100.x.x.x"
+```
+## Next Steps
+
+- [ ] Set up SSH key authentication
+- [ ] Install Docker
+- [ ] Deploy Portainer for container management
+- [ ] Configure Nginx Proxy Manager
+
 
 
 
