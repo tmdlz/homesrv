@@ -77,10 +77,7 @@ alias lab="ssh username@100.x.x.x"
 ```
 ## Next Steps
 
-- [ ] Set up SSH key authentication
-- [ ] Install Docker
-- [ ] Deploy Portainer for container management
-- [ ] Configure Nginx Proxy Manager
+- [ ] Mettre en place l'auth avec ssh
 
 
 
