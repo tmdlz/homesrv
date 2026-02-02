@@ -78,8 +78,7 @@ alias lab="ssh username@100.x.x.x"
 ## Next Steps
 
 - [ ] Mettre en place l'auth avec ssh
-- [ ] Réfléchir a la structure de mon serveur.
-
+- [ ] Comment expliquer mon project ? github uniquement ?
 
 
 
